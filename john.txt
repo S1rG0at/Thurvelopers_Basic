@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 john ist der beste
+=======
+WArum funktioniert es hier aber nicht in Visual Studio???
+>>>>>>> ad05a0a3c27528cf4aa317b518097beb5946b699
